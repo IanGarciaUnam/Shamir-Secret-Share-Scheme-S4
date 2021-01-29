@@ -1,0 +1,5 @@
+pytest>=3.07
+pycryptodome>=2.6.1
+crypto>=1.4.1
+pydoctor>=20.12.1
+numpy>=1.19.5
